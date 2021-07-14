@@ -18,7 +18,7 @@
 		<spring-framework.version>4.1.6.RELEASE</spring-framework.version>
 		<jjwt.version>0.4</jjwt.version>
 		<h2.version>1.4.188</h2.version>
-		<jackson.version>2.5.3</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<apache-commons.version>3.0</apache-commons.version>
 		<junit.version>4.12</junit.version>
         <lombok.version>1.16.6</lombok.version>
