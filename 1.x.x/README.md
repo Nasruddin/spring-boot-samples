@@ -1,4 +1,4 @@
 # spring-boot-samples
 Source code for the blog https://javatab.wordpress.com/
 
-WIP
+# WIP - Updating Spring boot version. Come back again.
