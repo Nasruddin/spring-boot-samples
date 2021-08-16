@@ -1,4 +1,4 @@
-package com.javatab.basic;
+package com.javatab.basicreactiveapi;
 
 import java.util.UUID;
 
