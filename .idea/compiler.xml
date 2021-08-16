@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-data-jpa" />
+        <module name="config-service" />
+        <module name="ElasticsearchSpringData" />
+        <module name="spring-vaadin-demo" />
+        <module name="data" />
+        <module name="reservation-client" />
+        <module name="rxjava-springboot-starter" />
+        <module name="todoapp" />
+        <module name="spring-session" />
+        <module name="demo" />
+        <module name="SpringBootStarter" />
+        <module name="eureka-service" />
+        <module name="spring-boot-starter" />
+        <module name="jwt-auth" />
+        <module name="web" />
+        <module name="SpringBoot-Vaadin" />
+        <module name="reservation-service" />
+        <module name="springboot-stateless-auth" />
+        <module name="dockerized-spring-boot" />
+        <module name="RedisSpringBoot" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

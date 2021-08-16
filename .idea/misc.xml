@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-rxjava/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-vaadin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jwt-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jersey-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud-infra/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud-infra/eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud-infra/reservation-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud-infra/reservation-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-spring-data/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis-session/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elastic-search/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jwt-auth-final/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-vaadin-navigator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-todo-application-full/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-multimodule-application/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
