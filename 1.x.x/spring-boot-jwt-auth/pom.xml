@@ -19,7 +19,7 @@
 		<jjwt.version>0.4</jjwt.version>
 		<h2.version>1.4.188</h2.version>
 		<jackson.version>2.12.7.1</jackson.version>
-		<apache-commons.version>3.0</apache-commons.version>
+		<apache-commons.version>3.18.0</apache-commons.version>
 		<junit.version>4.13.1</junit.version>
         <lombok.version>1.16.6</lombok.version>
 		<jacoco-maven-plugin.version>0.7.5.201505241946</jacoco-maven-plugin.version>
